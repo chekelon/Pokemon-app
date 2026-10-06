@@ -84,7 +84,7 @@ lib/
    flutter run
    ```
 
-El proyecto incluye configuración para Android, iOS, Web, Windows, macOS y Linux.
+El proyecto incluye configuración para Android, iOS.
 
 ## Pruebas
 
